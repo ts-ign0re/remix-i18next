@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergiodxa/remix-i18next.git"
+    "url": "git+https://github.com/ts-ign0re/remix-i18next-cjs.git"
   },
   "keywords": [
     "remix",
@@ -47,9 +47,9 @@
     "url": "https://sergiodxa.com"
   },
   "bugs": {
-    "url": "https://github.com/sergiodxa/remix-i18next/issues"
+    "url": "https://github.com/ts-ign0re/remix-i18next-cjs/issues"
   },
-  "homepage": "https://github.com/sergiodxa/remix-i18next#readme",
+  "homepage": "https://github.com/ts-ign0re/remix-i18next-cjs#readme",
   "peerDependencies": {
     "@remix-run/react": "^1.0.0 || ^2.0.0",
     "@remix-run/server-runtime": "^1.0.0 || ^2.0.0",
