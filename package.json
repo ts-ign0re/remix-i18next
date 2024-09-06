@@ -1,7 +1,7 @@
 {
-  "name": "remix-i18next",
+  "name": "remix-i18next-cjs",
   "version": "5.5.0",
-  "description": "The easiest way to translate your Remix apps",
+  "description": "The easiest way to translate your Remix apps. Capable of working with CommonJS and ESM.",
   "license": "MIT",
   "sideEffects": false,
   "browser": {
@@ -38,7 +38,8 @@
     "i18n",
     "i18next",
     "ssr",
-    "csr"
+    "csr",
+    "cjs"
   ],
   "author": {
     "name": "Sergio Xalambrí",
